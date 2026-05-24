@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html>
+
 <body>
-hello world
+<!-- SeaLegs LLC Tide Widget — by embedding, you agree to https://www.sealegs.ai/widget-terms -->
+<iframe
+  src="https://cdn.sealegs.ai/tides/chart/index.html?lat=39.355&lon=-74.418&title=Atlantic%20City"
+  style="width:100%;height:560px;border:0"
+  title="Tide forecast"
+  loading="lazy"
+  referrerpolicy="strict-origin-when-cross-origin"
+  sandbox="allow-scripts allow-same-origin"></iframe>
+<p style="text-align:center;font-size:0.875rem">
+  Tide forecasts by <a href="https://www.sealegs.ai/tide-widget">SeaLegs</a>
+</p>
 </body>
+
+</html>
